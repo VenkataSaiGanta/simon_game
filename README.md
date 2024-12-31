@@ -1,5 +1,5 @@
 # simon_game
-To play the game [click here]()
+To play the game [click here](https://github.com/VenkataSaiGanta/simon_game)
 
 ## Rules to play the game
 - **Start**: Press the "A" button to begin the game. The device will play the first sequence.
